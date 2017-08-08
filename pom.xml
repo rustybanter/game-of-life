@@ -484,6 +484,7 @@
                                 java.util.* -attributes -operations
                                 -enumerations -enumconstants
                             </additionalparam>
+							<goalPrefix>javadoc</goalPrefix>
                         </configuration>
                     </plugin>
                     <plugin>
